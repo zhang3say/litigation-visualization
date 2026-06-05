@@ -63,9 +63,8 @@ npx skills add zhang3say/litigation-visualization
 
 ```
 litigation-visualization/
-├── SKILL.md       # 核心工作流（AI 加载入口）
-├── REFERENCE.md   # 图表类型详解 + 设计规范
-└── EXAMPLES.md    # 六类纠纷速查 + 11 个实战案例
+├── SKILL.md       # 单文件 skill，包含完整工作流 + 设计规范 + 案例
+└── README.md      # 项目说明
 ```
 
 ## 适用纠纷类型
